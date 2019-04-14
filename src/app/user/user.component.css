@@ -1,0 +1,10 @@
+td.buttons {
+  width: 90px;
+}
+td.buttons div {
+  padding: 0;
+}
+td.buttons button {
+  padding: 1px;
+  width: 28px;
+}
